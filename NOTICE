@@ -1,0 +1,34 @@
+easy-macchiato-blue
+===================
+
+This project is a modified Fcitx5 theme derived from:
+
+  Catppuccin for Fcitx5
+  https://github.com/catppuccin/fcitx5
+
+  Specifically based on the "Catppuccin Macchiato Blue" flavour/accent
+  (src/catppuccin-macchiato-blue).
+
+Upstream license: MIT License
+Upstream copyright: Copyright (c) 2021 Catppuccin
+
+Upstream theme authors (retained in theme.conf Author field):
+  - justTOBBI   https://github.com/justTOBBI
+  - Isabelinc   https://github.com/isabelincorp
+  - Kurome      https://github.com/kuromedayo
+
+Catppuccin palette and branding belong to the Catppuccin organization.
+This repository is an independent derivative and is not an official
+Catppuccin project.
+
+Modifications in this derivative include (non-exhaustive):
+  - Layout / margin tuning for candidate and menu panels
+  - Preedit (HighlightBackgroundColor) contrast adjustment
+  - Menu highlight accent unified to Macchiato Blue
+  - LabelTextSizeFactor for candidate index hierarchy
+  - Fonts left to classicui.conf (system / user font settings)
+  - Metadata renamed to Easy Macchiato Blue
+
+Rounded panel/highlight SVG assets and menu icons (panel.svg, highlight.svg,
+radio.png, arrow.png) originate from the upstream Catppuccin Fcitx5 theme
+package (rounded-corner assets).
